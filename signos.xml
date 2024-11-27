@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+    <signos>
+        <signo>
+            <dataInicio>21/03</dataInicio>
+            <dataFim>20/04</dataFim>
+            <signoNome>Áries</signoNome>
+            <descricao> Símbolo: O Carneiro. Elemento: Fogo. Planeta Regente: Marte. Melhor Compatibilidade: Leão, Sagitário. Melhor para Casamento e Parcerias: Libra. Cor: Vermelho. Pontos Fortes: Corajoso, determinado, confiante, entusiasmado, otimista, honesto, passional. Pontos Fracos: Impaciente, temperamental, pavio curto, impulsivo, agressivo. Amor: É no amor e na amizade que Áries demonstra toda a sua generosa disposição de vida, sendo capaz de ir até o fim do mundo para demonstrar seus sentimentos, e enfrentar a opinião de toda a comunidade para ter o que deseja. Carreira e dinheiro: A sua palavra de ordem é liderança. Líder nato, não gosta de receber ordens. Nasceu para comandar. Eles podem seguir grandes carreiras como agentes de venda, negociantes, gerentes, condutores e empresários. Escassez de dinheiro para Áries é raro, porque eles gostam de trabalhar. Uma qualidade: Liderança. Um defeito: Impaciência.
+            </descricao>
+            <imagem>assets/imgs/aries.webp</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/04</dataInicio>
+            <dataFim>20/05</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao> Elemento: Terra. Planeta Regente: Vênus. Melhor Compatibilidade: Virgem, Capricórnio. Melhor para Casamento e Parcerias: Escorpião. Cores: Azul, Rosa, Verde. Pontos Fortes: Confiável, paciente, prático, dedicado, responsável, estável. Pontos Fracos: Teimoso, possessivo, intransigente. Amor: Eles são extremamente sensuais e o toque é muito importante para eles. Como parceiros querem pessoas do mesmo meio social, e que sejam capazes de responder ao seu intelecto e o seu desejo de lazer. Forte e sensível, é aquele amigo fiel que sempre tem uma observação realista e sabe cuidar muito bem das pessoas queridas. Carreira e dinheiro: São muito esforçados, e sua teimosia faz com que cheguem às últimas consequências em seus empreendimentos. Sua paciência e determinação acabam sendo de grande ajuda nos negócios. É muito esforçado e essa determinação faz com que consigam, quase sempre, atingir os seus objetivos. Uma qualidade: Estabilidade. Um defeito: Preguiça.
+            </descricao>
+            <imagem>assets/imgs/touro.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/05</dataInicio>
+            <dataFim>20/06</dataFim>
+            <signoNome>Gêmeos</signoNome>
+            <descricao> O símbolo de Gêmeos representa a dualidade e a figura do corpo humano. Regido por Mercúrio, o planeta da comunicação, os geminianos são aqueles que estão sempre em busca de novas experiências, conhecimentos e conversas envolventes. Eles são rápidos em aprender, adaptáveis e possuem uma capacidade única de ver diferentes perspectivas ao mesmo tempo.Defeitos: inquietação, falta de concentração e contradição
+            </descricao>
+            <imagem>assets/imgs/gemeos.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/06</dataInicio>
+            <dataFim>20/07</dataFim>
+            <signoNome>Câncer</signoNome>
+            <descricao> O signo de Câncer é representado pelo caranguejo e é o quarto signo do zodíaco. Os cancerianos são conhecidos por serem intuitivos, sensíveis, carinhosos e acolhedores. No entanto, alguns dos seus defeitos podem ser: Rancor, Fobias, Manipulação, Fantasias exageradas.
+            </descricao>
+            <imagem>assets/imgs/cancer.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/07</dataInicio>
+            <dataFim>20/08</dataFim>
+            <signoNome>Leão</signoNome>
+            <descricao> O signo de leão é o quinto signo do zodíaco. Seu carisma, magnetismo e poder abalam as estruturas de outros signos. Regido pelo Sol, tem como destaque a energia, vitalidade e facilidade em liderar. Leoninos podem ser confiantes e carismáticos, mas podem ter um ego inflado, buscando constantemente atenção e validação
+            </descricao>
+            <imagem>assets/imgs/leao.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/08</dataInicio>
+            <dataFim>20/09</dataFim>
+            <signoNome>Virgem</signoNome>
+            <descricao> Estes nativos gostam de perfeição em tudo o que fazem e, por isso, são eficientes e cuidadosos. "Mas têm dificuldade em formar uma visão geral das situações. Gostam de aprender e analisar coisas novas. No entanto, podem ser críticos, perfeccionistas, puritanos e muito preocupados.
+            </descricao>
+            <imagem>assets/imgs/virgem.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/09</dataInicio>
+            <dataFim>20/10</dataFim>
+            <signoNome>Libra</signoNome>
+            <descricao> O libriano costuma ser gentil, equilibrado e pacífico. Por esse motivo, costuma querer agradar aqueles que convivem em seu entorno. Seu defeito que todo mundo já sabe é a indecisão e nunca querer tomar partidos em discussões. Pode ser visto como alguém, mão aberta demais por gostar de artigos de luxo.
+            </descricao>
+            <imagem>assets/imgs/libra.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>23/10</dataInicio>
+            <dataFim>21/11</dataFim>
+            <signoNome>Escorpião</signoNome>
+            <descricao> O símbolo de Gêmeos representa a dualidade e a figura do corpo humano. Regido por Mercúrio, o planeta da comunicação, os geminianos são aqueles que estão sempre em busca de novas experiências, conhecimentos e conversas envolventes. Eles são rápidos em aprender, adaptáveis e possuem uma capacidade única de ver diferentes perspectivas ao mesmo tempo.Defeitos: inquietação, falta de concentração e contradição
+            </descricao>
+            <imagem>assets/imgs/escorpiao.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>22/11</dataInicio>
+            <dataFim>21/12</dataFim>
+            <signoNome>Sagitário</signoNome>
+            <descricao> Sua maior virtude: Sabedoria. Defeitos: É arrogante e julga ser o dono da verdade. Orgulhoso, quer sempre ser o alvo das atenções. Sua freqüente inquietação o leva a perder coisas ou pessoas que foram conquistadas com dificuldade.
+            </descricao>
+            <imagem>assets/imgs/sagitario.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>22/12</dataInicio>
+            <dataFim>20/01</dataFim>
+            <signoNome>Capricórnio</signoNome>
+            <descricao> Prudência, paciência e persistência são as três grandes características de Capricórnio em estado puro. No entanto, essas as virtudes, quando excessivas, se convertem em defeitos.
+            </descricao>
+            <imagem>assets/imgs/capricornio.jfif</imagem>
+        </signo>
+        <signo>
+            <dataInicio>21/01</dataInicio>
+            <dataFim>18/02</dataFim>
+            <signoNome>Aquário</signoNome>
+            <descricao> Os aquarianos são pessoas muito diretas e não gostam de trapaças e de coisas feitas por baixo dos panos. Alguns podem achá-los indiferentes ou frios, mas eles apenas mantêm suas emoções mais contidas do que a maioria. Os nativos desse signo têm uma personalidade muito fiel a si mesmo e prezam pela privacidade.
+            </descricao>
+            <imagem>assets/imgs/Aquario.jpg</imagem>
+        </signo>
+        <signo>
+            <dataInicio>19/02</dataInicio>
+            <dataFim>20/03</dataFim>
+            <signoNome>Peixes</signoNome>
+            <descricao> O signo de Peixes possui qualidades como sensibilidade, intuição e compaixão, mas também pode apresentar defeitos como indecisão, escapismo e instabilidade emocional. É importante lembrar que a astrologia é apenas uma ferramenta de autoconhecimento e não determina completamente a personalidade de uma pessoa.
+            </descricao>
+            <imagem>assets/imgs/peixes.jfif</imagem>
+        </signo>
+    </signos>
